@@ -1,0 +1,14 @@
+/* Style for the elements */
+
+html{
+    background:white;
+}
+
+body{
+    width:100%;
+    background-color:teal;
+    background-image: url("main_background.jpg");
+    background-size:cover;
+    background-position: 0 , 0;
+
+}
